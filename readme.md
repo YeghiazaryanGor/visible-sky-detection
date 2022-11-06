@@ -1,0 +1,1 @@
+This program uses Healpix grid to find the visible sky of our location and represent it.
