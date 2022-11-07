@@ -1,0 +1,2 @@
+astropy~=5.1
+geopy~=2.2.0
