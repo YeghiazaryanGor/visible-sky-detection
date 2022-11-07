@@ -54,5 +54,6 @@ if __name__ == "__main__":
 
     print("We are at the " + str(location))
     print("The solid angle(field of view) is " + str(solid_angle))
-    print("The surface area is " + str(area))
     print("The cone's angle(plane angle) is " + str(plane_angle))
+    print("The surface area is " + str(area))
+
